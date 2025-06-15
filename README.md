@@ -26,9 +26,9 @@ LifeOS addresses these by **anchoring agent behavior and schema design directly 
 
 ## 🚀 Built With
 
-- Neo4j (AuraDB, self-hosted)
+- Neo4j (AuraDB & self-hosted instances)
 - Python orchestration layer
-- OpenAI + Gemini LLM agents
+- OpenAI, Gemini, Anthropic, Mistral LLM agents
 - NeoDash dashboards
 
 ## 💡 Inspired By
